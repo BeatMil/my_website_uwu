@@ -1,0 +1,26 @@
+@media(min-width: 768px) {
+	.news-input {
+		width: 55%;
+	}
+}
+
+.draggable {
+	background-color: salmon;
+	border: 1px solid #000;
+	resize: both; /* Allows resizing in both directions */
+	overflow: auto; /* Ensures content stays visible if resized smaller */
+}
+
+/* p { */
+/* 	color: aqua; */
+/* 	border: 2px solid powderblue; */
+/* 	margin: 50px; */
+/* } */
+
+i {
+	font-size: 24px;
+}
+
+.inverted-icon {
+	filter: invert(1);
+}
