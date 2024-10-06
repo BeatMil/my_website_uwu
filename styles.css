@@ -24,3 +24,9 @@ i {
 .inverted-icon {
 	filter: invert(1);
 }
+
+.compressed-paragraph {
+	width: 600px; /* Set the width you want */
+	word-wrap: break-word; /* Break long words to fit within the width */
+	font-size: 20px;
+}
